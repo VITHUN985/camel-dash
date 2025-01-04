@@ -3,3 +3,5 @@ Pre-requisites:
 
 Instructions:
 *Just open the folder and run "Camel Dash.py" from your favourite IDE
+
+Credits and thanks to my friend Monishram, and Milkman himself Camel Das aka: Prajesh
